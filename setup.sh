@@ -5,4 +5,4 @@ git clone https://github.com/pjh177787/azure-storage-fuse-cn
 cd azure-storage-fuse-cn
 ./build.sh
 sudo rm -f /usr/bin/blobfuse
-cp ./build/blobfuse /usr/bin/
+sudo cp ./build/blobfuse /usr/bin/
