@@ -1,0 +1,9 @@
+/home/aperture/azure-storage-fuse/build/CMakeFiles/install/strip.dir
+/home/aperture/azure-storage-fuse/build/CMakeFiles/install/local.dir
+/home/aperture/azure-storage-fuse/build/CMakeFiles/install.dir
+/home/aperture/azure-storage-fuse/build/CMakeFiles/package.dir
+/home/aperture/azure-storage-fuse/build/CMakeFiles/package_source.dir
+/home/aperture/azure-storage-fuse/build/CMakeFiles/blobfuse.dir
+/home/aperture/azure-storage-fuse/build/CMakeFiles/edit_cache.dir
+/home/aperture/azure-storage-fuse/build/CMakeFiles/rebuild_cache.dir
+/home/aperture/azure-storage-fuse/build/CMakeFiles/list_install_components.dir
