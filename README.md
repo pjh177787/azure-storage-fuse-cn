@@ -2,7 +2,7 @@
 
 This repo is cloned from Azure. For Azure Kubernetes Service users in China, blobfuse endpoint needs to be changed.
 
-See [batch scoring with aks demo] (https://github.com/pjh177787/batch-scoring-deep-learning-models-with-aks), it is also modified to endpoints in China. At the end of 03_create_aks_cluster, after the nodes are created, you will need to ssh in to those nodes [see how] (https://docs.microsoft.com/en-us/azure/aks/ssh) and change the blobfuse binary.
+See [batch scoring with aks demo](https://github.com/pjh177787/batch-scoring-deep-learning-models-with-aks), it is also modified to endpoints in China. At the end of 03_create_aks_cluster, after the nodes are created, you will need to ssh in to those nodes [see how](https://docs.microsoft.com/en-us/azure/aks/ssh) and change the blobfuse binary.
 ```
 wget https://raw.githubusercontent.com/pjh177787/azure-storage-fuse-cn/master/setup.sh
 chmod +x setup.sh
